@@ -1,17 +1,21 @@
 # PCBs for OneWheel
 
-## Balance breakout
+You can order these on https://cart.jlcpcb.com/quote by uploading the whole `*.zip` file for each project.
+
+## Projects
+
+### Balance breakout
 
 Simple breakout board for balance port on OneWheel batteries.
 
 ![](balance_breakout/PCB_onewheel_balance_breakout.png)
 
-### BOM
+#### BOM
 * BMS Connector (PCB Side)
   * `BM26B-ZPDSS-TF(LF)(SN)`
   * [https://www.digikey.com/product-detail/en/jst-sales-america-inc/BM26B-ZPDSS-TF(LF)(SN)/455-2548-6-ND/2472626](https://www.digikey.com/product-detail/en/jst-sales-america-inc/BM26B-ZPDSS-TF(LF)(SN)/455-2548-6-ND/2472626)
 
-### Revisions
+#### Revisions
 * v1.1
   * marked positive and negative pads
   * thicker paths
