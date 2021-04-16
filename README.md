@@ -26,6 +26,8 @@ This is helpful when diagnosing a battery health and balancing the pack.
   * [https://lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_CAX-XH-8A_C722885.html](https://lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_CAX-XH-8A_C722885.html)
 
 ## Revisions
+* v1.1
+  * Fixed XT60 polarity.
 * v1.0
   * Initial revision.
 
