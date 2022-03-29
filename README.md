@@ -4,8 +4,6 @@ You can order these on https://cart.jlcpcb.com/quote by uploading the whole `*.z
 
 # 3x5S charge board
 
-Note: I ordered these, but still need to test the PCB.
-
 Manage your OneWheel battery with a hobby charger. These usually do 6S or 8S max. This board will allow you split up the balance connector to standard 3 5S parts.
 
 This is helpful when diagnosing a battery health and balancing the pack.
@@ -52,8 +50,6 @@ Simple breakout board for balance port on OneWheel batteries.
   * Initial revision.
 
 # 15S JST
-
-Note: I ordered these, but still need to test the PCB.
 
 Conversion from OneWheel battery balance connector to standard 15S JST connector.
 
