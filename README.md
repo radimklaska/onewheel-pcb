@@ -64,8 +64,11 @@ Conversion from OneWheel battery balance connector to standard 15S JST connector
   * [https://lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_CAX-XH-8AW_C722888.html](https://lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_CAX-XH-8AW_C722888.html)
 * 1x `JST XH-16AW`
   * 15S balance connector, side entry, latch on top
-  * [https://lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_BOOMELE-Boom-Precision-Elec-XH-6AW_C146117.html](https://lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_BOOMELE-Boom-Precision-Elec-XH-6AW_C146117.html)
+  * [https://www.lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_BOOMELE-Boom-Precision-Elec-XH-16AW_C24983.html](https://www.lcsc.com/product-detail/Wire-To-Board-Wire-To-Wire-Connector_BOOMELE-Boom-Precision-Elec-XH-16AW_C24983.html)
 
 ## Revisions
 * v1.0
   * Initial revision.
+
+* v1.1
+  * Updated URL for `JST XH-16AW`
